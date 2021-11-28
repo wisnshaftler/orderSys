@@ -1,0 +1,6 @@
+	 	 	 INVOICE 
+----------------------------------- 
+itemCode 	 Desc. 	 	 UnitPrice 	 	 QTY 	 Total 
+2	8GB DDR4 Laptop RAM	200.0	 	 	  1 		200.0
+-------------------------------------- 
+Total 	 	 	 200.0
